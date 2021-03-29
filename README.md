@@ -5,7 +5,7 @@
        <h4 align="center"> <a href="https://steamcommunity.com/id/derpspears/"> DerpSpears </a> </h4>
 <h4 align="center"><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> </h4>
   <h4 align="center"> DerpSpears#5204 </h4>
-  <h4 align="center"><a href="https://steamcommunity.com/id/derpspears/"><img src="https://png.pngtree.com/element_our/sm/20180301/sm_5a9797d18f418.jpg"/> </a> </h4>
+  <a href=""><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
    <h4 align="center"> <a href="https://www.instagram.com/tatti_human/"> tatti_human </a> </h4>
 
 
