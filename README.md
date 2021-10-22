@@ -6,3 +6,5 @@
   <h4 align="center"> DerpSpears#5204 </h4>
 
 ![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears&show_icons=true&theme=cobalt)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpspears&repo=proprietary_vendor_nokia)](https://github.com/DerpSpears/proprietary_vendor_nokia)
