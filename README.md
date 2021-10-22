@@ -6,3 +6,4 @@
   <h4 align="center"> DerpSpears#5204 </h4>
 
 ![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears)
+![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears&show_icons=true&theme=tokyonight)
