@@ -8,3 +8,6 @@
 ![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears&show_icons=true&theme=cobalt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpspears&repo=proprietary_vendor_nokia)](https://github.com/DerpSpears/proprietary_vendor_nokia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpspears&repo=android_device_nokia_NB1T-TWRP)](https://github.com/DerpSpears/android_device_nokia_NB1T-TWRP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpspears&repo=android_kernel_nokia_umbrella)](https://github.com/DerpSpears/android_kernel_nokia_umbrella)
+
