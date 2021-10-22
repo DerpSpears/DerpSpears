@@ -5,4 +5,4 @@
 <h4 align="center"><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> </h4>
   <h4 align="center"> DerpSpears#5204 </h4>
 
-<h4 align="center"> ![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears) </h4>
+![DerpSpears's github stats](https://github-readme-stats.vercel.app/api?username=derpspears)
